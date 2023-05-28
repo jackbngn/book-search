@@ -14,3 +14,10 @@ This project involves refactoring a fully functioning Google Books API search en
 ## Technologies Used
 
 - MERN Stack (MongoDB, Express.js, React, Node.js)
+- GraphQL
+- Apollo Server
+- Google Books API
+- Heroku
+- MongoDB Atlas
+
+## Website
